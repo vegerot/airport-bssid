@@ -4,7 +4,7 @@ airport-bssid
 Connect to a specific wifi network, based off BSSID (mac address of Access Point).
 
 ============
-usage: ./Build/Release/airport-bssid <ifname> [<bssid>] [<password>]
+usage: ./Build/Release/airport-bssid &lt;ifname&gt; [&lt;bssid&gt;] [&lt;password&gt;]
 
 - Connect to specific wireless network on <ifname> interface, provided by the access point with <bssid> and password <password>.
 
